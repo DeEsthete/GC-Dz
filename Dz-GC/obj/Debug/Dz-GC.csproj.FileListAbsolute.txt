@@ -1,0 +1,7 @@
+C:\Users\djoni\source\repos\Dz-GC\Dz-GC\bin\Debug\Dz-GC.exe.config
+C:\Users\djoni\source\repos\Dz-GC\Dz-GC\bin\Debug\Dz-GC.exe
+C:\Users\djoni\source\repos\Dz-GC\Dz-GC\bin\Debug\Dz-GC.pdb
+C:\Users\djoni\source\repos\Dz-GC\Dz-GC\obj\Debug\Dz-GC.csprojResolveAssemblyReference.cache
+C:\Users\djoni\source\repos\Dz-GC\Dz-GC\obj\Debug\Dz-GC.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\Dz-GC\Dz-GC\obj\Debug\Dz-GC.exe
+C:\Users\djoni\source\repos\Dz-GC\Dz-GC\obj\Debug\Dz-GC.pdb
